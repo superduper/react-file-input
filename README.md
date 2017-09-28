@@ -1,3 +1,5 @@
+> forked from captivationsoftware/react-file-input because the original author would not respond to PRs enabling support of React 16
+
 react-file-input
 ============
 [Demo](https://captivationsoftware.github.io/react-file-input)
